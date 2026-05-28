@@ -20,12 +20,6 @@ Página de links do DJ e produtor Maell J, reunindo playlists, perfis e redes so
 /
 ├── index.html
 ├── style.css
-└── images/
-    ├── profile-MaellDJ.jpg
-    ├── spotify.png
-    ├── soundcloud.png
-    ├── tiktok.png
-    └── instagram.png
 ```
 
 ## Como rodar
